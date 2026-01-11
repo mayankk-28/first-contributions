@@ -1,6 +1,5 @@
 # Contributors
 
-- [Ziyu](https://github.com/szyu345)
 - [0scrxk](https://github.com/oscrxk)
 - [@Zakiahsan-arch](https://github.com/Zakiahsan-arch)
 - [A Szpatowski](https://github.com/aszpatowski)
@@ -65,7 +64,6 @@
 - [Ameer Ali](https://github.com/Ameeeerr)
 - [Amin abdolahi](https://github.com/Amin-Abdolahi)
 - [Aminat A](https://github.com/pejuameenat)
-- Brice Ockman
 - [Amit Kumar Patra](https://github.com/amitkumarpatra99)
 - [Amit Patil](https://github.com/meAmitPatil)
 - [Ammar Adnew](https://github.com/AmmarAdnew)
